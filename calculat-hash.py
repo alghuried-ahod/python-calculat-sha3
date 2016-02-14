@@ -5,7 +5,7 @@ Ahod Alghuried, D15123616
 Mobile Forinsic, Lab #2
 
 
-This Python program has been desined to check the integrity of files. It is calculate the hash code for SHA-1, SHA256 ,SHA512 , SHA3_256 and SHA3_384.
+This Python program has been designed to check the integrity of files. It is calculate the hash code for SHA-1, SHA256 ,SHA512 , SHA3_256 and SHA3_384.
 
 To get SHA-3 you might have to download (pip python) from this link https://pypi.python.org/pypi . After download get-pip.py . Open terminal and write this command " pip install pysha3".
 Then you will be able to import sha3.
